@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/main.694a4fab.chunk.js",
+    "main.js.map": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/main.694a4fab.chunk.js.map",
+    "runtime-main.js": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/runtime-main.40704c19.js",
+    "runtime-main.js.map": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/runtime-main.40704c19.js.map",
+    "static/js/2.e0e066b4.chunk.js": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/2.e0e066b4.chunk.js",
+    "static/js/2.e0e066b4.chunk.js.map": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/2.e0e066b4.chunk.js.map",
+    "index.html": "https://ujjwalkumar579.github.io/csb-cc4kdz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e0e066b4.chunk.js.LICENSE.txt": "https://ujjwalkumar579.github.io/csb-cc4kdz/static/js/2.e0e066b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40704c19.js",
+    "static/js/2.e0e066b4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.694a4fab.chunk.js"
+  ]
+}
